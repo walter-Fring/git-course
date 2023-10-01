@@ -1,1 +1,1 @@
-console.log('feature 1 completed');
+console.log('feature 1 completed.');
